@@ -1,7 +1,7 @@
 apiVersion: route.openshift.io/v1
 kind: Route
 metadata:
-  name: route-login
+  name: login
   namespace: app
 spec:
   path: /
